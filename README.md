@@ -10,8 +10,7 @@
 - 📫 How to reach me *laharireddysalla@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53649201/98462016-ee51fa80-21d6-11eb-92b9-393853f5490b.gif
-"
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53649201/98462016-ee51fa80-21d6-11eb-92b9-393853f5490b.gif">
 
 <p align="left">
 <a href="https://www.linkedin.com/in/lahari-reddy-salla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lahari-reddy-salla/" height="30" width="40" /></a>
