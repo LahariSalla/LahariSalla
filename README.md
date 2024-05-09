@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @LahariSalla
-- 👀 I’m interested in Developing websites
-- 🌱 I’m currently learning Java Script
-- 📫 How to reach me laharisalla29@gmail.com
-
-<!---
-LahariSalla/LahariSalla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Lahari Salla</h1>
 <h3 align="center">A passionate Web developer</h3>
 
@@ -32,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Lahari Salla"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Lahari Salla" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikiroy&show_icons=true&locale=en&layout=compact" alt="laharisalla" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laharisalla&show_icons=true&locale=en&layout=compact" alt="laharisalla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikiroy&show_icons=true&locale=en" alt="laharisalla" /></p>
 
